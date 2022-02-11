@@ -1,16 +1,15 @@
-### Hi there 👋
+#### Hi, I'm Joey 
+---
 
-<!--
-**JoeydeKort/JoeydeKort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Java/HTML/CSS 
 
-Here are some ideas to get you started:
+<dl>
+  <dt>I’m currently learning:</dt>
+  <dd><em>Spring, Springboot and Thymeleaf</em></dd>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <dt>How to reach me:</dt>
+</dl>
+
+> [Visit my portfolio on Github](https://joeydekort.github.io/my-curriculum-vitae/ "My curriculum vitae")
+> 
+> [Visit my Linkedin](https://www.linkedin.com/in/joeydekort/ "My LinkedIn page")
