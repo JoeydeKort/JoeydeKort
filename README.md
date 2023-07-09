@@ -1,15 +1,15 @@
-## Hi, I'm Joe!
+## Hi, I'm Joey!
 
-Welcome to my GitHub profile! I'm a passionate and enthusiastic developer who is embarking on an exciting journey in the world of software development.
+Welcome to my GitHub profile!
 
 ### 💻 About Me
-I'm a starting developer with a strong desire to learn and grow in the field. I love the process of creating something from scratch and solving complex problems through code. Every day is an opportunity for me to explore new technologies, enhance my skills, and contribute to innovative projects.
+I'm a Java developer who likes to explore new technologies, and take on new and challenging projects. I love the process of creating something from scratch and solving complex problems through code.
 
 ### 🚀 My Journey
-Although I'm just starting out, I have a solid foundation in programming and a curious mindset that drives me to continuously learn. I enjoy diving into various programming languages, frameworks, and tools, always seeking to expand my knowledge and improve my abilities.
+I changed careers in 2021, going from sales to software development. After completing a full-time one-year program to learn Java, I was offered the position of Java instructor at Intec, the organization where I pursued my training. 
 
 ### 🔭 What I'm Working On
-Currently, I'm focused on sharpening my skills in Java and Spring.
+Currently, I'm sharpening my skills in Java and Spring.
 Here are some of the skills and technologies I work with:
 
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" />
