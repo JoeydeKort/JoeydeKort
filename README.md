@@ -21,3 +21,5 @@ Here are some of the skills and technologies I work with:
 
 ### 🤝 Let's Connect
 I'm excited to connect with like-minded individuals who share the same passion for coding and continuous learning. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/joeydekort/) to discuss collaborations, share ideas, or simply have a chat.
+
+![Views Counter](https://views-counter.vercel.app/badge?pageId=JoeydeKort&leftColor=153351&rightColor=006f97&type=unique&label=Views&style=none)
