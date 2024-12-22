@@ -1,25 +1,21 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20I'm%20Joey!&height=100&section=header"/>
 </p>
-<h1 align="center">
+<h2>
   About Me
-</h1>
-<p align="center">
+</h2>
 I'm a Java developer who likes to explore new technologies, and take on new and challenging projects. Here below you find the skills that I am interrested in.
-</p>
-
+<br>
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,angular,js,html,css,git,kubernetes,docker" />
   </a>
 </p>
-
-<h1 align="center">
+<h2>
   Let's Connect and have a Chat!
-</h1>
-<p align="center">
-  I'm excited to connect with like-minded individuals who share the same passion for coding. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/joeydekort/) to discuss collaborations, share ideas, or simply have a chat.
-</p>
+</h2>
+I'm excited to connect with like-minded individuals who share the same passion for coding. Feel free to reach out to me on <a href="https://www.linkedin.com/in/joeydekort/">LinkedIn</a> to discuss collaborations, share ideas, or simply have a chat.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
